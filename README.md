@@ -1,6 +1,6 @@
 # 1Logician Snake (Python) Version: 1.0
 
-A minimal, beginner-friendly Snake game written in **Python + pygame**.
+A minimal, beginner-friendly Snake game written in **Python + pygame**. Find more games at https://1logician.gumroad.com
 
 This project is intentionally simple so new programmers can learn by reading real working code.
 
